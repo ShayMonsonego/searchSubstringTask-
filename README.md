@@ -2,7 +2,9 @@
 
 
 ## important note  ##
-Although it is possible to write the code in two lines using built-in functions, I chose to implement the function manually to have control over every step and avoid debugging issues, thus achieving optimal efficiency.
+1) Although it is possible to write the code in two lines using built-in functions, I chose to implement the function manually to have control over every step and avoid debugging issues, thus achieving optimal efficiency.
+2) Note: I could not dedicate more than 30 minutes to writing the function because I am in a very busy exam period at university. Therefore, I wrote the general idea of the function and included tests for classic edge cases.
+
 
 ## Overview
 
